@@ -1,0 +1,4 @@
+,Group,Unshuffle Average,Shuffle Average,Unshuffle Max,Shuffle Max,Unshuffle Min,Shuffle Min
+0,CueRein,81.3%,69.6%,96.9%,87.8%,52.8%,52.8%
+1,CueReinCNO,89.3%,63.4%,100%,90%,50%,46.4%
+2,CueReinPersist,90.2%,64.7%,100%,100%,50%,50%
