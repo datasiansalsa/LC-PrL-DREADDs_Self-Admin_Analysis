@@ -1,0 +1,11 @@
+Decoding: Neuron
+Variable of interest: Cue
+Num-clusters: 4
+
+
+MODEL INFO
+Model: RandomForestClassifier(n_estimators=5)
+Classifier: SVC()
+Dimension-reduction: PCA(n_components=10)
+Standardization: StandardScaler()
+Num-iterations: 10
